@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Permission!</string>
+    <string name="app_name">PermissionReader</string>
+    
+    <string name="about_title">About</string>
+    <string name="about_message">Hi, I\'m Kid Feng, a Chinese Coder.</string>
+    <string name="about_twitter">twitter: <a href="http://twitter.com/KidFeng">@KidFeng</a></string>
+    <string name="about_mail">E-mail: <mailto href="Kid.Stargazer@gmail.com">Kid.Stargazer@gmail.com</mailto></string>
+    <string name="more_app">More App</string>
+    <string name="no_market">No Martket?</string>
+    
+    <string name="color_title">What are the colors mean?</string>
+    <string name="color_system_text">System or Signed Permissions</string>
+    <string name="color_dangerous_text">Dangerous Permissions</string>
+    <string name="color_normal_text">Normal Permissions</string>
+</resources>
